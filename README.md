@@ -1,2 +1,2 @@
-# scma632-A6
+# scma632-A6a
 Time Series Analysis
